@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Systems+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Senior+Systems+Engineer;Senior+Infrastructure+Engineer;Senior+Platform+Engineer)](https://git.io/typing-svg)
 
 <!--
 **Aechrok/Aechrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
